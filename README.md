@@ -1,229 +1,212 @@
-<h1 align="center">
-  <img src="GIF/Earth.gif" width="24px">
-  𝐇𝐞𝐥𝐥𝐨, &lt;𝚌𝚘𝚍𝚎𝚛𝚜/&gt;!
-  <img src="GIF/Hi.gif" width="40px" />
-</h1>
-
-<br/>
-<br/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&width=435&lines=MERN+Stack+Developer+;Front+End+Developer;Wordpress+Developer)](https://git.io/typing-svg)
-
-<p><img align="right" height="250" width="300" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
-
-
-
-- 🔭 I’m currently working on **GRANTHAGRA-'Android Application for Students.**
-- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **GoLang 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
-- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **𝙰𝚗𝚍𝚛𝚘𝚒𝚍, Design or DevOps .**
-- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/GovindSingh9447/GovindSingh9447/issues/2) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
-- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
-- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
-
-<br/>
-<br/>
-
-
-
-
-<p align="center">
-  <img alt = "profile views" src="https://komarev.com/ghpvc/?username=GovindSingh9447&style=flat&color=blue"> •   
-  <a href="https://user-badge.committers.top/india_private/GovindSingh9447"><img src="https://user-badge.committers.top/india_private/GovindSingh9447.svg"></a> •
-  <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/GovindSingh9447?label=Followers&style=social"> •
-  <img src="https://img.shields.io/github/stars/GovindSingh9447?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜"> •
-  <a href="https://github.com/sponsors/GovindSingh9447"><img src="https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86"/></a>
-</p>
-
-
-#
-
-
-
-
-
-
-<a target="_blank"><img align="left" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
-<br/>
-
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<br/>
-
-#
-
-
-<details open="">
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝙶𝚒𝚝𝚑𝚞𝚋 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-<br>
-
-<p align="center">
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=GovindSingh9447&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/GovindSingh9447">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GovindSingh9447&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-<br>
-
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=GovindSingh9447&theme=react-dark&hide_border=true&area=true)
-
-
-<h4 align="center">
-  
-```diff
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-@@       o o                                           @@
-@@       | |                                           @@
-@@      _L_L_                                          @@
-@@   ❮\/__-__\/❯ Programming isn't about what you know @@
-@@   ❮(|~o.o~|)❯  It's about what you can figure out   @@
-@@   ❮/ \`-'/ \❯                                       @@
-@@     _/`U'\_                                         @@
-@@    ( .   . )     .----------------------------.     @@
-@@   / /     \ \    | while( ! (succeed=try() ) ) |     @@
-@@   \ |  ,  | /    '----------------------------'     @@
-@@    \|=====|/                                        @@
-@@     |_.^._|                                         @@
-@@     | |"| |                                         @@
-@@     ( ) ( )   Testing leads to failure              @@
-@@     |_| |_|   and failure leads to understanding    @@
-@@ _.-' _j L_ '-._                                     @@
-@@(___.'     '.___)                                    @@
-+@ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @ @+
-```
-
-</h4>  
-  
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/github-contribution-grid-snake.svg)
-
-<br/>
-
-
-
-
-
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
-
-<br>
-<br>
-
-<!--START_SECTION:waka-->
-
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C938%20hrs%2055%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.3%20million%20lines%20of%20code-blue)
-
-
-**🐱 My Github Data** 
-
-> 🏆 590 Contributions in the Year 2023
- > 
-> 📦 9.1 MB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 82 Public Repositories 
- > 
-> 🔑 124 Private Repositories  
- > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    93 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
-🌆 Daytime    274 commits    ██████░░░░░░░░░░░░░░░░░░░   27.16% 
-🌃 Evening    396 commits    █████████░░░░░░░░░░░░░░░░   39.25% 
-🌙 Night      246 commits    ██████░░░░░░░░░░░░░░░░░░░   24.38%
-
-```
-
-
-<br> <br>
-
-## 🚀 **Work Experience** :computer_mouse: :desktop_computer: 
-
-| 💼 Designation |  🏢Organization | ⏰Timeline  |
-| :-: | :-: | :-: |
-| Cloud DevOps Engineer | [Decimal Tech](https://www.linkedin.com/company/decimaltech/) | Feb 2022 - Present |
-| Open source mentor | [GSsoC](https://gssoc.girlscript.tech/) | Mar 2022 - May 2022 |
-| Open source mentor | [SWOC](https://swoc.scriptindia.org/) | Nov 2021 - Feb 2022 |
-| Open source mentor | [WoC](https://winterofcode.com/) | Nov 2021 - Feb 2022 |
-| Web Developer Intern | [Grivaa Capital](https://www.linkedin.com/company/grivaa-capital/) | Jul 2021 - Sep 2021 |
-
-
-
-
-
- Last Updated on 20/04/2024
-<!--END_SECTION:waka-->
-
-
-
-
-
-
-<h1>
-  Connect With Me
-  <a target="_blank">
-    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  </a>
-</h1>
-
-<p align="center">
-  <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
-  </a>
-  
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
-    <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
-  </a>
-    
-</p>
-<br/>
-
-
-
-<br/>
-<br/>
-
-<p align="center">
-  <a href="https://archiveprogram.github.com/">
-    <img alt="𝙶𝚒𝚝𝚑𝚞𝚋 𝙰𝚛𝚌𝚝𝚒𝚌 𝚅𝚊𝚞𝚕𝚝 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚘𝚛" src = "https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/arctic.gif" width="100px" height="100px">
-  </a>
-</p>
-
-
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+<!-- Animated Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F6CBD,100:1A1A2E&height=120&section=header&text=Ahmed%20Ragab&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0F6CBD&center=true&vCenter=true&width=600&lines=Frontend+%26+Full+Stack+Developer;Next.js+%7C+React+%7C+TypeScript;MERN+Stack+%7C+WordPress;Building+scalable+web+experiences+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Contact Badges -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-ahmed-ragab.pantheonsite.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ragab-pro/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedragab.pro@outlook.com)
+[![GitHub](https://img.shields.io/badge/GitHub-1A1A2E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dev-ahmed-ragab)
 
 </div>
 
-#
+---
 
-![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
+## 👋 About Me
 
+```typescript
+const ahmed = {
+  role:       "Frontend & Full Stack Developer",
+  location:   "Egypt 🇪🇬",
+  education:  "B.Eng @ Menoufia University",
+  journey:    "Self-taught since 2021 → Production apps since 2024",
 
------
+  currentWork: "Part-time contract (Next.js SaaS — Confidential)",
+  
+  stack: {
+    frontend:  ["Next.js", "React", "TypeScript", "Tailwind CSS", "MUI"],
+    backend:   ["Node.js", "Express.js", "Supabase", "REST APIs"],
+    database:  ["MongoDB", "PostgreSQL"],
+    cms:       ["WordPress", "Elementor", "WooCommerce"],
+    tools:     ["Git", "Vercel", "Electron", "PWA"],
+  },
 
-//**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
+  extras:     ["i18n / RTL", "Dark Mode", "PWA", "Electron", "OTP Auth"],
+  superpower: "Turning complex requirements into clean, scalable UIs ⚡",
+};
+```
 
-**Last Edited on**: 20/04/2024
+---
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+**Frontend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-007FFF?style=flat-square&logo=mui&logoColor=white)
+
+**Backend & Database**
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+
+**CMS & Tools**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏥 [ProHealth](https://pro-health-wine.vercel.app/)
+**Medical Appointment Platform**
+
+Full-stack platform with **3 dashboards** (Patient / Doctor / Admin), appointment booking & cancellation, smart filtering, and secure auth with email confirmation.
+
+`MERN Stack` `JWT Auth` `Admin Dashboard`
+
+[Live Demo](https://pro-health-wine.vercel.app/) • [GitHub](https://github.com/dev-ahmed-ragab/ProHealth)
+
+</td>
+<td width="50%">
+
+### 📝 [Frenzy Blog](https://frenzy-blog.vercel.app/)
+**Dynamic Blogging Platform**
+
+Feature-rich blog with post creation, admin dashboard for content moderation, tag management, and responsive design across all devices.
+
+`MERN Stack` `Content Management` `Responsive`
+
+[Live Demo](https://frenzy-blog.vercel.app/) • [GitHub](https://github.com/dev-ahmed-ragab/frenzy-blog)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🍰 [B-Labn](http://b-labn.vercel.app/)
+**Dessert Restaurant Website**
+
+Restaurant showcase with product listings, referral system, and full admin dashboard for inventory and order management.
+
+`MERN Stack` `Order Management` `Referral System`
+
+[Live Demo](http://b-labn.vercel.app/) • [GitHub](https://github.com/dev-ahmed-ragab/b-Labn)
+
+</td>
+<td width="50%">
+
+### 🎬 [YouTube Clone](https://youtube-clone-ruby-one.vercel.app/)
+**Video Platform**
+
+YouTube-inspired frontend integrated with the YouTube Data API for search and playback, with custom hooks and responsive layout.
+
+`React.js` `YouTube API` `Custom Hooks`
+
+[Live Demo](https://youtube-clone-ruby-one.vercel.app/) • [GitHub](https://github.com/dev-ahmed-ragab/youtube-clone)
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💪 [Fitness App](https://a-exercises.netlify.app/)
+**Workout & Exercise Platform**
+
+Fitness resource platform with categorised workout routines, interactive UI, and full responsiveness across all screen sizes.
+
+`React.js` `Interactive UI` `Responsive Design`
+
+[Live Demo](https://a-exercises.netlify.app/) • [GitHub](https://github.com/dev-ahmed-ragab/fitness)
+
+</td>
+<td width="50%">
+
+### 🏙️ [Skyscrapers Development](https://dev-skyscrapers.pantheonsite.io/)
+**Real Estate Website**
+
+Property listing site with dynamic content, customised WordPress theme, and responsive design built to drive user engagement.
+
+`WordPress` `Elementor` `Custom Theme`
+
+[Live Demo](https://dev-skyscrapers.pantheonsite.io/)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dev-ahmed-ragab&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ahmed-ragab&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=dev-ahmed-ragab&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+## 🏆 What I've Built in Production
+
+| ⚡ Feature | 🛠️ Tech Used |
+|:---|:---|
+| Canva-style dynamic PDF builder | Next.js + TypeScript + Custom Canvas Logic |
+| Full auth system (OTP + Email confirmation) | JWT + Supabase + Phone OTP |
+| Multi-language app with RTL switching | i18n + Next.js |
+| Web app → Desktop app conversion | Electron |
+| Web app → PWA | Service Workers + Manifest |
+| Dark / Light Mode system | CSS Variables + Context API |
+| Three-role medical dashboard | MERN Stack + Role-based Auth |
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+I'm open to **full-time**, **part-time**, and **freelance** opportunities.  
+If you have an interesting project or role — let's talk!
+
+[![Portfolio](https://img.shields.io/badge/View_My_Portfolio-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dev-ahmed-ragab.pantheonsite.io/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-ragab-pro/)
+[![Email](https://img.shields.io/badge/Send_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedragab.pro@outlook.com)
+
+</div>
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,100:0F6CBD&height=80&section=footer" />
+</div>
