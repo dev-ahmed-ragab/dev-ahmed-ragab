@@ -22,8 +22,11 @@
 <a href="mailto:ahmedragab.pro@outlook.com">
   <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>&nbsp;
+<a href="https://ahmedragab.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-ahmedragab.dev-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>&nbsp;
 <a href="https://iqraa.live" target="_blank">
-  <img src="https://img.shields.io/badge/Platform-iqraa.live-0F6CBD?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Platform-iqraa.live-107C41?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>&nbsp;
 <a href="https://github.com/dev-ahmed-ragab" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -52,7 +55,7 @@ const ahmed = {
 
   productionHighlights: [
     "Multi-tenant academic intelligence platform @ Iqraa (iqraa.live)",
-    "Arabic document parsing pipeline with PaddleOCR @ Maham School SaaS",
+    "Standardized Design System & 13 rulebooks @ Maham School SaaS (Apptraction)",
     "Realtime drag-and-drop workflows (@dnd-kit + Supabase postgres_changes)",
     "Granular multi-tier RBAC secured with PostgreSQL Row-Level Security (RLS)",
   ],
@@ -86,7 +89,7 @@ const ahmed = {
 | **[Traxr](https://traxr.vercel.app)** | High-velocity, keyboard-first issue tracker inspired by Linear. Built with Supabase Realtime, offline IndexedDB sync, and `⌘K` command palette | DevTools | Next.js 15 · Supabase Realtime · PGlite · @dnd-kit | 🌐 **[Demo](https://traxr.vercel.app)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/traxr)** |
 | **[ProHealth](https://pro-health-wine.vercel.app/)** | Healthcare management & clinic booking system with 3 dedicated portals (Patient, Doctor, Admin) and automated appointment lifecycles | HealthTech | MERN Stack · JWT Auth · Tailwind CSS | 🌐 **[Demo](https://pro-health-wine.vercel.app/)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/ProHealth)** |
 | **[Frenzy Blog](https://frenzy-blog.vercel.app/)** | Dynamic content publishing platform featuring Markdown composition, tags taxonomy, and content moderation queues | CMS | MERN Stack · REST APIs · Responsive | 🌐 **[Demo](https://frenzy-blog.vercel.app/)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/frenzy-blog)** |
-| **[B-Labn](http://b-labn.vercel.app/)** | High-conversion restaurant storefront featuring dynamic product catalogs, customer referral mechanics, and dispatch workflows | E-Commerce | MERN Stack · Referral Workflows | 🌐 **[Demo](http://b-labn.vercel.app/)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/b-Labn)** |
+| **[B-Labn](http://b-labn.vercel.app/)** | High-conversion restaurant storefront featuring dynamic product catalogs, customer referral mechanics, and dispatch workflows | E-Commerce | Vanilla JS (SPA) · Tailwind · Node / Express | 🌐 **[Demo](http://b-labn.vercel.app/)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/b-Labn)** |
 | **[YouTube Clone](https://youtube-clone-ruby-one.vercel.app/)** | Responsive video streaming interface integrated with YouTube Data API v3, infinite feed caching, and custom player hooks | Media / Video | React.js · YouTube API v3 · Custom Hooks | 🌐 **[Demo](https://youtube-clone-ruby-one.vercel.app/)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/youtube-clone)** |
 | **[Fitness App](https://a-exercises.netlify.app/)** | Interactive workout discovery platform with categorised routines, interactive BMI calculator, and fluid mobile UX | Health & Fitness | React.js · Exercise API · Responsive Design | 🌐 **[Demo](https://a-exercises.netlify.app/)** • 💻 **[GitHub](https://github.com/dev-ahmed-ragab/fitness)** |
 
